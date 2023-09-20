@@ -1,4 +1,4 @@
-# A* Algorithm in short for revision
+# A* algorithm in short for revision
 
 ### Introduction
 The A* algorithm is a widely used and efficient graph traversal algorithm that finds the shortest path between two nodes in a weighted graph. It is commonly used in pathfinding and graph search applications, such as route planning in GPS systems and video games.
